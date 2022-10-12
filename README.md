@@ -20,3 +20,5 @@ that the GPS consistently improves accuracy across four commonly used vision
 benchmarks. We have also shown that our GPS can serve as the unified framework
 for integrating various memory construction policies in existing ER works.
 
+<br> <br>
+<img src="teaser/dmc.pdf" width="100%">
