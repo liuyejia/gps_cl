@@ -21,4 +21,4 @@ benchmarks. We have also shown that our GPS can serve as the unified framework
 for integrating various memory construction policies in existing ER works.
 
 <br> <br>
-<img src="teaser/dmc.pdf" width="100%">
+<img src="teaser/dmc.jpg" width="100%">
