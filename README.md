@@ -23,4 +23,19 @@ for integrating various memory construction policies in existing ER works.
 <br> <br>
 <img src="teaser/dmc.jpg" width="100%">
 
+## Citation
+If you find this work useful, please consider citing:
+```
+@inproceedings{
+liu2022navigating,
+title={Navigating Memory Construction by Global Pseudo-Task Simulation for Continual Learning},
+author={Yejia Liu and Wang Zhu and Shaolei Ren},
+booktitle={Thirty-Sixth Conference on Neural Information Processing Systems},
+year={2022},
+url={https://openreview.net/forum?id=tVbJdvMxK2-}
+}
+```
+
+
 <em>Our code will be ready soon<em>
+
